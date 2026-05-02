@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CS293 Final Project - </title>
+    <title>CS293 Final Project - Alberto Aguilar</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Alberto's Secure Website</h1>
-    <p>Really enjoyed this class, learned alot.</p>
+    <p>Really enjoyed this class, learned a lot.</p>
 
     <button onclick="showMessage()">Click Me!</button>
     <p id="message"></p>
